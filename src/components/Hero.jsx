@@ -1,4 +1,4 @@
-import experiences from "../assets/imgs/experiences.png"
+import experiences from "../../public/imgs/experiences.png"
 
 function Hero() {  
   return (
