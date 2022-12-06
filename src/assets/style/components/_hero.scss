@@ -1,0 +1,24 @@
+.hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: -webkit-fill-available;
+    padding: 0 30px;
+    &__img{
+        width: 395px;
+        margin-top: 24px;
+    }
+    &__title{
+        font-weight: 600;
+        font-size: 36px;
+        margin-top: 32px;
+        margin-right: auto;
+    }
+    &__txt{
+        font-weight: 300;
+        margin-top: 16px;
+        margin-right: auto;
+
+    }
+}
